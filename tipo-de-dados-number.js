@@ -5,3 +5,7 @@ let temperatura = -5
 console.log(idade)
 console.log(altura)
 console.log(temperatura)
+
+console.log("Minha idade é ", idade)
+console.log("Minha altura é ", altura)
+console.log("Hoje está muito frio, está fazendo ", temperatura, " graus")

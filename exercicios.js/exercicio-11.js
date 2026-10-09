@@ -1,0 +1,14 @@
+//11. Determine o valor de x após a execução das operações de incremento e decremento:  
+// let x = 5; 
+// x++; 
+// x++;
+//  x--; 
+// A) 5  B) 6  C) 7  D) 4 
+
+let x = 5; 
+x++; 
+x++;
+x--; 
+console.log(x)
+
+// RESPOSTA: B) 6. Porque fica 5+1+1-1=6 
